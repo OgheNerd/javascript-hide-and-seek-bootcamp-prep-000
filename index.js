@@ -1,3 +1,3 @@
 function getFirstSelector(selector) {
-  document.querySelector('#nested')
+  document.querySelector(selector)
 }
