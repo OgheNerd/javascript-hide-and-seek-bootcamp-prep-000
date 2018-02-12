@@ -1,3 +1,3 @@
 function getFirstSelector(selector) {
-  selector.children[0];
+  selector.children;
 }
